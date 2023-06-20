@@ -1,3 +1,1 @@
 # ISU_practice
-
-aaaaa
