@@ -1,3 +1,3 @@
 print("hello world")
 print("hello new branch")
-print("conflict")
+print("new conflict")
